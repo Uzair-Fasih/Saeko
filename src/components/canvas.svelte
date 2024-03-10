@@ -37,7 +37,7 @@
 			height={$loaded_file.data.header.height}
 		></canvas>
 	{:else}
-		<h1>; Saeko</h1>
+		<h1>; saeko</h1>
 	{/if}
 </div>
 

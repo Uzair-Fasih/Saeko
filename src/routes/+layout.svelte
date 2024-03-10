@@ -70,7 +70,7 @@
 </script>
 
 <div id="menu-bar">
-	<p id="logo">Saeko</p>
+	<p id="logo">saeko</p>
 	<Button options={fileOptions}>File</Button>
 	<Button options={viewOptions}>View</Button>
 	<button on:click={toggleModal}>About</button>
@@ -82,7 +82,7 @@
 	<div id="about-modal">
 		<div>
 			<div style="text-align: center; padding: 0px 40px;">
-				<h2>🌸 ;Saeko</h2>
+				<h2>🌸 ;saeko</h2>
 				<p>
 					A tiny supercharged PPM viewer. Created by <a
 						target="_blank"

@@ -1,6 +1,6 @@
-# Saeko
+# saeko
 
-Sakeo is a very simple bare-bones PPM viewer. This project was developed as a tool while working through the development of my Rust Ray Tracer.
+sakeo is a very simple bare-bones PPM viewer. This project was developed as a tool while working through the development of my Rust Ray Tracer.
 
 This project is written in Svelte.
 

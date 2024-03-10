@@ -7,7 +7,7 @@
 </script>
 
 <div id="editor">
-	<p>; Saeko v0.10</p>
+	<p>; saeko v0.10</p>
 	{#if !isEmpty($loaded_file)}
 		<p id="text-editor">
 			{#if $loaded_file.status}
